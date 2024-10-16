@@ -1,0 +1,8 @@
+1- Traduzir o código para a linguagem utilizada nas máquinas.
+2- O bytecode é executado e compila para a linguagem de máquina especifica de cada máquina.
+3- Condições é utilizada para ter diferentes ações.
+4- SE (idade >= 18) ENTÃO
+       IMPRIMIR "Maior de idade."
+   SENÃO
+       IMPRIMIR "Menor de idade."
+   FIM SE
